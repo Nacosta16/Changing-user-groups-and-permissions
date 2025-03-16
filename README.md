@@ -23,19 +23,19 @@
    - Right click the users folder again, then select group
    - Name the group and leave the settings the same
 
-   <img src="https://sigmawire.net/i/03/2udB9Y.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
+   <img src="https://sigmawire.net/i/03/V17zHJ.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
      
    - Verify the group is now in the users folder same as you did with the user in the previous steps
 
    - Right click the group, click properties, then select members
 
-   <img src="https://sigmawire.net/i/03/2udB9Y.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
+   <img src="https://sigmawire.net/i/03/Obmdzl.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
      
    - Select add, then advanced, and check names to add users to the group and click ok and apply
  
-   <img src="https://sigmawire.net/i/03/2udB9Y.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
+   <img src="https://sigmawire.net/i/03/j9m3NT.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
    
    - Verify the user is added to the group, note the top highlight, it is the same group we made, confirming he is in it
 
-   <img src="https://sigmawire.net/i/03/2udB9Y.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
+   <img src="https://sigmawire.net/i/03/2aXAhE.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
 
