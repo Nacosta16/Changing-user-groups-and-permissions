@@ -5,29 +5,29 @@
    <b> Configuring users</b>
    - After opening the server manager, open tools and select active directory users and computers
      
-   <img src="https://sigmawire.net/i/03/kfxuTS.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
+   <img src="https://sigmawire.net/i/03/k8xCV2.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
 
      
    - Open by right clicking the users folder in the organizational units to the left
   
    - Select new, then user, and enter the information of the user you would like to create
 
-   <img src="https://sigmawire.net/i/03/ms4T0G.png" alt="VirtualBox set up wizard"/>
+   <img src="https://sigmawire.net/i/03/JEDkl2.png" alt="VirtualBox set up wizard"/>
 
  
    - Here you can also select their password settings, for security you can disable their account, make them change their password on next login etc, depending on the situation required, then click next and finish
   
-   <img src="https://sigmawire.net/i/03/ms4T0G.png" alt="VirtualBox set up wizard"/>
+   <img src="https://sigmawire.net/i/03/C5MI6u.png" alt="VirtualBox set up wizard"/>
 
-   - Verify the useris now in the group of the users folder
+   - Verify the user is now in the group of the users folder
 
-   <img src="https://sigmawire.net/i/03/2udB9Y.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
+   <img src="https://sigmawire.net/i/03/4PJEi9.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
 
    <b> Configuring groups </b>
    - Right click the users folder again, then select group
    - Name the group and leave the settings the same
 
-   <img src="https://sigmawire.net/i/03/5cEqBT.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
+   <img src="https://sigmawire.net/i/03/I5DeBd.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
      
    - Verify the group is now in the users folder same as you did with the user in the previous steps
 
