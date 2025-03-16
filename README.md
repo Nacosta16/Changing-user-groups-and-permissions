@@ -1,4 +1,4 @@
-# Changing user, groups, and permissions
+# Changing users and groups
 
    <H> Knowing how to manage user groups in Active Directory as an IT admin is important for security, efficiency, and compliance. It ensures users have the right access without assigning permissions individually. Groups make it easy to update access when employees change roles, reducing security risks and human errors! </H>
 
@@ -17,6 +17,3 @@
    - Select add, then advanced, and find names to add users to the group and click ok and apply
    - Verify the user is added to the group
 
-  <b> Permissions </b>
-   - Right click the users folder again, select properties, then security to see the current permissions
-   - In the box in the bottom half of the dialog box you can select the permissions
