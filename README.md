@@ -19,4 +19,4 @@
 
   <b> Permissions </b>
    - Right click the users folder again, select properties, then security to see the current permissions
-   - In the box in the bottom half of the dialog box 
+   - In the box in the bottom half of the dialog box you can select the permissions
